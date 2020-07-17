@@ -12,4 +12,4 @@ Timekeeper is a very simple tool, displaying a countdown timer.
 
 Its a very simple tool - we use it regularily for breaks in workshops or virtual meetings or time-capped presentations.
 
-[Download Binary Timekeeper.exe](bin/Release/Timekeeper.exe)
+[Download Binary Timekeeper.exe](bin/Release/)
