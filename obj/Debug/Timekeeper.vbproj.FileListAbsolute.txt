@@ -1,0 +1,11 @@
+C:\TEMP\t\bin\Debug\Timekeeper.exe.config
+C:\TEMP\t\bin\Debug\Timekeeper.exe
+C:\TEMP\t\bin\Debug\Timekeeper.pdb
+C:\TEMP\t\bin\Debug\Timekeeper.xml
+C:\TEMP\t\obj\Debug\Timekeeper.vbprojAssemblyReference.cache
+C:\TEMP\t\obj\Debug\Timekeeper.Form1.resources
+C:\TEMP\t\obj\Debug\Timekeeper.Resources.resources
+C:\TEMP\t\obj\Debug\Timekeeper.vbproj.GenerateResource.cache
+C:\TEMP\t\obj\Debug\Timekeeper.exe
+C:\TEMP\t\obj\Debug\Timekeeper.xml
+C:\TEMP\t\obj\Debug\Timekeeper.pdb
